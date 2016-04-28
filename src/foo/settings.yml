@@ -1,0 +1,5 @@
+base_url: "http://codespace-api.myjetbrains.com/youtrack/rest"
+project: API
+credentials:
+  login: 'root'
+  password: 'c11desp@ce'
